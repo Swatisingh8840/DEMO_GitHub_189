@@ -1,0 +1,15 @@
+Feature 1 - Branch Implementation
+
+Name: Swati Singh
+Roll No: 189
+
+This file is created in the feature1 branch to demonstrate 
+branch creation and merging in Git.
+
+Steps Performed:
+1. Created a new branch named feature1.
+2. Added this file inside feature1 branch.
+3. Committed the changes.
+4. Merged feature1 branch into main branch.
+
+This demonstrates Git branching and collaboration workflow.
